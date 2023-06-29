@@ -1,0 +1,1 @@
+function printType(param: any): void { console.log(`O tipo da variável é ${typeof param}`); } printType("Integrar é muito boa")

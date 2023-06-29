@@ -1,0 +1,12 @@
+{
+  "name": "codigozerosete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "execicio07.js",
+  "scripts": {
+    "start": "npx tsc && node ./build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
